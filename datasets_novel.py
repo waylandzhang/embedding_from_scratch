@@ -20,7 +20,7 @@ vocab_size = len(tokenizer.vocab)
 context_length = 64
 
 corpus_files = [
-    '../three_body_utf8.txt',
+    'three_body_utf8.txt',
     # '三体.txt',
     # '科幻小说.txt',
     # '人类简史.txt',
